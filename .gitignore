@@ -1,0 +1,11 @@
+.DS_STORE
+.vagrant
+.env.example
+CHANGELOG.md
+composer.json
+composer.lock
+CONTRIBUTING.md
+LICENSE.md
+README.md
+ruleset.xml
+wp-cli.yml
